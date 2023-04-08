@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/16502/Documents/Unreal Projects/MyProjectWareHouse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/MyProjectWareHouse/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/MyProjectWareHouse/Content/MainMap.umap",
+				"C:/Users/16502/Documents/Unreal Projects/MyProjectWareHouse/Content/bp_projectile.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/MyProjectWareHouse/Content/MainMapp.umap"
+			]
+		}
+	]
+}
